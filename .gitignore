@@ -1,0 +1,14 @@
+/.idea
+/build-test
+/dist
+/docs/vendor
+/docs/Gemfile*
+/docs/.bundle
+/docs/_site
+/docs/.jekyll-cache
+/MANUAL.md
+/*.gz
+/MANUAL.html
+/.cache
+/.stats
+.DS_Store
